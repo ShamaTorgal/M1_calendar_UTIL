@@ -1,5 +1,5 @@
 ## Description
-* can perform operations like finding the day corresponding to a given date, month and the year which were asked.
+*t This can perform operations like finding the day corresponding to a given date, month and the year which were asked.
 ## Requirements
 * High Level Requirements
 ## Features of my project
