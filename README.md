@@ -1,3 +1,3 @@
-# M1_projectGoal_APP
+# M1_projectGoal_UTIL
  
- Mini Project -Application
+ Mini Project - Calendar
