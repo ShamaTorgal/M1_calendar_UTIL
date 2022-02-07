@@ -4,8 +4,8 @@
  ## The main objectives of this application are 
 * 1 the user shall view the day when he enter the date month year
 * 2 the user shall add notes or tasks on certain day and that task to be added to the calendar
-* 3. The user shall be able to view all the days which have festivals
-* 4. To print all the days of the month
+* 3 The user shall be able to view all the days which have festivals
+* 4 To print all the days of the month
 ## Requirements
 * High Level Requirements
 ## Features of my project
