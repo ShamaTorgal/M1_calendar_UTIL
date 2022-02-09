@@ -33,10 +33,10 @@
 ### Who
 * The user who wants to access Calendar.
 ### What
-* To Know and get infomation regarding months or day or years.
+* To get infomation regarding months or day or years.
 ### When
-* During the time alloted for vaccination.
+* Whenever the user want to know about the perticular day/date/note/months and whenever used wants to add notes.
 ### Where
-* Local vaccination centre.
+* Daily life.
 ### How
-* Online registration and on field verification using local server.
+* By using the Calendar application and entering the key.
