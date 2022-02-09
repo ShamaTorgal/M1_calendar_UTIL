@@ -44,3 +44,4 @@
 
 
 ## SWOT Analysis
+![SWOT analysis](https://user-images.githubusercontent.com/89698000/132556785-561d19ab-c53d-4658-8138-401da25ce78e.png)
