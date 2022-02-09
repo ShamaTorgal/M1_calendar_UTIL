@@ -1,6 +1,5 @@
 ## Description
-*  This Calendar application can perform mainly three operations those are finding the day corresponding to a given date, month and the year which were asked. Next feature of this application is we can add task on a certain date just like todo list, Task/notes, One more feature is I will be storing these tasks in a file and And future we will be adding festivals on a certain day in the calender.
- And one more is we can print all the days of the month.
+   This Calendar application can perform mainly three operations those are finding the day corresponding to a given date, month and the year which were asked. Next feature of this application is we can add task on a certain date just like todo list, Task/notes, One more feature is I will be storing these tasks in a file and And future we will be adding festivals on a certain day in the calender and one more is we can print all the days of the month.
  
  ## The main objectives of this application are 
 * The user shall view the day when he enter the date month year
@@ -8,13 +7,13 @@
 * The user shall be able to view all the days which have festivals
 * To print all the days of the month
 
-### Requirements
+## Requirements
 
 ## High Level Requirements
 | ID | Description | Status (Implemented/Future) |
 | --- | --- | --- |
 | HR01 | System should be able to display the day on the date entered | Implemented |
-| HR02 |User should be able to add a new note on specific date | Implemented |
+| HR02 | User should be able to add a new note on specific date | Implemented |
 | HR03 | User should be able to view all the days of the month | Implemented |
 | HR04 | User should be able to see the notes  | Implemented |
 | HR05 | User should be able to view all the festivals date  | Future |
@@ -32,9 +31,9 @@
 
 ## 4 W's and 1 H
 ### Who
-* Patient who needs to be vaccinated.
+* The user who wants to access Calendar.
 ### What
-* Verify the details of the patient using the alloted data.
+* To Know and get infomation regarding months or day or years.
 ### When
 * During the time alloted for vaccination.
 ### Where
