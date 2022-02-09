@@ -1,5 +1,4 @@
-Design
-Structural
-Behavioural
-Flowcharts
-Use case diagrams
+## Design
+* Structural
+* Behavioural
+* Flowcharts
