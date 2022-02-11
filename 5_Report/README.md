@@ -62,7 +62,7 @@ This folder conatins all the coding files as well as the resources and testing f
 | --- | --- | 
 | inc | Contains header files | 
 | src | Contains additional source file for compilation | 
-| test | Contains unit testing files |
+| test | Contains testing files |
 
 ## After Running the code 
 * Press '1' to know the day according to the given date.
