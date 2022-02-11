@@ -12,4 +12,6 @@
 
 ## Badges
 
+![Code grade](https://api.codiga.io/project/31090/score/svg)
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)] (https://api.codiga.io/project/31090/score/svg)
