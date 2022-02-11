@@ -12,7 +12,7 @@
 
 ## Badges
 
-![Code grade](https://api.codiga.io/project/31090/score/svg)  ![Code grade](https://api.codiga.io/project/31090/status/svg)
+![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg)
 
 
 
