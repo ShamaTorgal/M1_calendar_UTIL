@@ -43,5 +43,4 @@
 * By using the Calendar application and entering the key.
 
 
-## SWOT Analysis
 
