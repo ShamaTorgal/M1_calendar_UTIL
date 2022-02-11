@@ -42,6 +42,10 @@
 ### How
 * By using the Calendar application and entering the key.
 
+## Badges
+
+![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg)
+
 # Implementation
 
 This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
