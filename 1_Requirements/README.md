@@ -42,5 +42,7 @@
 ### How
 * By using the Calendar application and entering the key.
 
+![SWOT analysis](C:\Users\SHAMA\Pictures\Screenshots\SWOT.png)
+
 
 
