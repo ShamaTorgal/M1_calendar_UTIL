@@ -1,4 +1,7 @@
-Test case
+## Test Plan
+Table 1 - High level test plan
+
+Table 2 - low level test plan
 | No. | Input | Output | Status (Implemented/Future) |
 | --- | --- | --- | --- |
 | 01 | Key '1' is pressed  | Find Out the day | Implemented |
