@@ -25,7 +25,7 @@
 | LR02 | Key '2' is pressed for - Print all the days of month | Implemented |
 | LR03 | Key '3' is pressed for - Add note | Implemented |
 | LR03 | Key '4' is pressed for - Exit | Implemented |
-| LR03 | Key '5' is pressed for - Show festivals | Implemented |
+| LR03 | Key '5' is pressed for - Show festivals | future |
 | LR03 | Key '6' is pressed for - TO DO list | Future |
 
 
