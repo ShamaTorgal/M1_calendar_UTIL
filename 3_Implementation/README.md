@@ -11,7 +11,7 @@ This folder conatins all the coding files as well as the resources and testing f
 * Run "make run_test" command in terminal for test code execution
 
 | Folder | Description |
-| --- | --- | --- |
+| --- | --- | 
 | inc | Contains header files | 
 | src | Contains additional source file for compilation | 
 | test | Contains unit testing files |
