@@ -14,5 +14,17 @@
 
 ![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg)
 
+## 4 W's and 1 H
+### Who
+* The user who wants to access Calendar.
+### What
+* To get infomation regarding months or day or years.
+### When
+* Whenever the user want to know about the perticular day/date/note/months and whenever used wants to add notes.
+### Where
+* Daily life.
+### How
+* By using the Calendar application and entering the key.
+
 
 
