@@ -1,5 +1,12 @@
 ## Test Plan
 Table 1 - High level test plan
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| HR01 | System should be able to display the day on the date entered | Implemented |
+| HR02 | User should be able to add a new note on specific date | Implemented |
+| HR03 | User should be able to view all the days of the month | Implemented |
+| HR04 | User should be able to see the notes  | Implemented |
+| HR05 | User should be able to view all the festivals date  | Future |
 
 Table 2 - low level test plan
 | Test ID | Discription | Exp Input | Exp Output | Status (Implemented/Future) |
