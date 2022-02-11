@@ -8,17 +8,13 @@
 /* Prototypes for all the test functions */
 void test_isLeapYear(void);
 void test_getDayNumber(void);
-
 void test_leapYears(void);
 void test_todayOf(void);
 void test_days(void);
 void test_getName(void);
 
 
-
-
-
-// int isLeapYear( int year );        /* True if leap year */
+// int isLeapYear1( int year );        /* True if leap year */
 // int leapYears( int year );         /* The number of leap year */
 // int todayOf( int y, int m, int d); /* The number of days since the beginning of the year */
 // long days( int y, int m, int d);   /* Total number of days */
@@ -55,19 +51,19 @@ int main()
 
 /* Write all the test functions */ 
 void test_isLeapYear(void) {
-  TEST_ASSERT_EQUAL(1, isLeapYear(2000));
+  TEST_ASSERT_EQUAL(1, isLeapYear1(2000));  //pass
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(0, isLeapYear(2001));
+  TEST_ASSERT_EQUAL(1, isLeapYear1(2001)); //fail
 }
 // ----------------------------------------------
 
 
 void test_getDayNumber(void) {
-  TEST_ASSERT_EQUAL(2, getDayNumber(5,9,2000));
+  TEST_ASSERT_EQUAL(2, getDayNumber(5,9,2000)); //pass
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3, getDayNumber(29,2,2000));
+  TEST_ASSERT_EQUAL(3, getDayNumber(29,2,2000)); //fail
 }
 // ----------------------------------------------
 

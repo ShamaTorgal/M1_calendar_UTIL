@@ -12,7 +12,7 @@ void flush()
     while ((c = getchar()) != '\n' && c != EOF);
 }
 
-int isLeapYear( int y ){
+int isLeapYear1( int y ){
     return(y % 400 == 0) || ((y % 4 == 0) && (y % 100 != 0));
 }
 
@@ -23,7 +23,7 @@ int leapYears( int y ){
 int todayOf( int y, int m, int d) {
     static int DayOfMonth[] =
         { -1,0,31,59,90,120,151,181,212,243,273,304,334};
-    return DayOfMonth[m] + d + ((m>2 && isLeapYear(y))? 1 : 0);
+    return DayOfMonth[m] + d + ((m>2 && isLeapYear1(y))? 1 : 0);
 }
 
 long days( int y, int m, int d){
@@ -71,7 +71,7 @@ void calendar(int y, int m){
 
     fclose(fp);
 
-    if(isLeapYear(y))
+    if(isLeapYear1(y))
         DayOfMonth[2] = 29;
     printf("\n     %s %d\n%s\n", NameOfMonth[m], y, Week);
 
