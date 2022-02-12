@@ -49,7 +49,7 @@ int main(int argc, char* argv[]){
         exit(0);
         break;
         default:
-        printf("wrong choice entered")
+        printf("wrong choice entered");
         break;
        
       }
