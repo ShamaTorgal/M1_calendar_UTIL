@@ -58,7 +58,7 @@ doc:
 test:$(BUILD)
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 
-analyze: test memcheck staticcheck coverage sanitize_check
+analyze: test  staticcheck coverage sanitize_check
 
 staticcheck:
 	cppcheck --enable = all -Iunity.
