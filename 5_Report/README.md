@@ -48,9 +48,7 @@
 ![SWOT analysis](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
 
 ## Badges
-| Code Quality |
-| --- |
-| ![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg) |
+![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg) [![Cppcheck](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/cppcheck.yml) [![Valgrind](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/dynamic_check.yml/badge.svg)](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/dynamic_check.yml) [![Build-linux](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/build.yml/badge.svg)](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/build.yml) 
 
 # Implementation
 
