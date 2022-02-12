@@ -12,7 +12,7 @@ int main(int argc, char* argv[]){
     fclose(fp);
     while(1) {
       printf("1. Find the day\n");
-      printf("2. Print calendar of a month\n");
+      printf("2. Print r of a month\n");
       printf("3. Add Note\n");
       printf("4. Exit\n");
       printf("Enter your choice: ");
@@ -21,13 +21,13 @@ int main(int argc, char* argv[]){
         case '1':
         printf("Enter the day, month and year: ");
         scanf("%d %d %d", &day, &month, &year);
-        printf("The day is : %s\n", getName(getDayNumber(day, month, year)));
+        printf("The day is : %s\n", getName(getDayNum(day, month, year)));
         break;
         case '2':
         printf("Enter the month and year: ");
         scanf("%d %d", &month, &year);
         printf("Please enter 's' to see the notes\n Press any other key to continue\n");
-        calendar(year, month);
+        calendarr(year, month);
         break;
         case '3':
         printf("Enter the day, month and year: ");

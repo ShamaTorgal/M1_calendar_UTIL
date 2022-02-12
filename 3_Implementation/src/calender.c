@@ -16,23 +16,24 @@ int isLeapYear1( int y ){
     return(y % 400 == 0) || ((y % 4 == 0) && (y % 100 != 0));
 }
 
-int leapYears( int y ){
+int leapYrs( int y ){
     return y/4 - y/100 + y/400;
 }
 
-int todayOf( int y, int m, int d) {
+int todayOff( int y, int m, int d) {
     static int DayOfMonth[] =
         { -1,0,31,59,90,120,151,181,212,243,273,304,334};
     return DayOfMonth[m] + d + ((m>2 && isLeapYear1(y))? 1 : 0);
 }
 
-long days( int y, int m, int d){
+long dayss( int y, int m, int d){
     int lastYear;
     lastYear = y - 1;
-    return 365L * lastYear + leapYears(lastYear) + todayOf(y,m,d);
+    return 365L * lastYear +(lastYear) + todayOff(y,m,d);
+  (y,m,d);
 }
 
-void calendar(int y, int m){
+void calendarr(int y, int m){
     FILE *fp;
     Note* notes, note;
     int len, j, hasNote = 0;
@@ -47,7 +48,7 @@ void calendar(int y, int m){
     int weekOfTopDay;
     int i,day;
 
-    weekOfTopDay = days(y, m, 1) % 7;
+    weekOfTopDay = dayss(y, m, 1) % 7;
 
     fp = fopen("note.bin", "rb");
     if (fp == NULL) {
@@ -104,7 +105,7 @@ void calendar(int y, int m){
     }
 }
 
-int getDayNumber(int d, int m, int y){ //retuns the day number
+int getDayNum(int d, int m, int y){ //retuns the day number
     static int t[] = {0, 3, 2, 5, 0, 3, 5, 1, 4, 6, 2, 4};
     y -= m < 3;
     return (y + y/4 - y/100 + y/400 + t[m-1] + d) % 7;

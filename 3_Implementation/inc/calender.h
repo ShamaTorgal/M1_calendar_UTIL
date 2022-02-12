@@ -7,11 +7,11 @@
 #define CALENDER_H_
 
 int isLeapYear1( int year );        /* True if leap year */
-int leapYears( int year );         /* The number of leap year */
-int todayOf( int y, int m, int d); /* The number of days since the beginning of the year */
-long days( int y, int m, int d);   /* Total number of days */
-void calendar(int y, int m);       /* display calendar at m y */
-int getDayNumber(int d,int m,int y);
+int leapYrs( int year );         /* The number of leap year */
+int todayOff( int y, int m, int d); /* The number of s since the beginning of the year */
+long dayss( int y, int m, int d);   /* Total number of s */
+void calendarr(int y, int m);       /* display r at m y */
+int getDayNum(int d,int m,int y);
 char *getName(int day);
 void flush();
 
