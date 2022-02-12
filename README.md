@@ -11,8 +11,9 @@
 * To print all the days of the month
 
 ## Badges
-
-![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg)
+| Code Quality |
+| --- |
+| ![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg) |
 
 ## 4 W's and 1 H
 ### Who
