@@ -9,7 +9,7 @@
 ![Print all days](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/6_ImagesAndVideos/2_printMonth.png)  
 
 ## 4. Condition - Whenever key '3' is pressed it will add a Note to particular date.
-![Code grade](https://api.codiga.io/project/31090/score/svg)  
+![Add note](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/6_ImagesAndVideos/3_AddNote.png)  
 
 ## 5. Condition - If user wants to view Note within the given month press key 's'.
 ![Code grade](https://api.codiga.io/project/31090/score/svg)  
