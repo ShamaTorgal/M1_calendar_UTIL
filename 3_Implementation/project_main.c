@@ -10,7 +10,7 @@ int main(int argc, char* argv[]){
       fp = fopen("note.bin", "w");
     }
     fclose(fp);
-   while(1){
+   //while(1){
       printf("1. Find the day\n");
       printf("2. Print r of a month\n");
       printf("3. Add Note\n");
@@ -53,6 +53,6 @@ int main(int argc, char* argv[]){
         break;
        
       }
-   }
+  // }
     return 0;
 }
