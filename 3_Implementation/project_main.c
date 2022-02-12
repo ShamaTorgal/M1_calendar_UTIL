@@ -48,9 +48,7 @@ int main(int argc, char* argv[]){
         printf("Bye!!");
         exit(0);
         break;
-        default:
-        printf("Not a valid option\n");
-        break;
+       
       }
     }
     return 0;
