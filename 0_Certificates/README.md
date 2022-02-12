@@ -3,7 +3,7 @@
 ![SoloLearn](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/0_Certificates/1_sololearn_cert-1089-24871283.jpg)
 
 ## 2. Cisco NDG Linux
-![Cisco](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png) 
+![Cisco NDG](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/0_Certificates/2_Cisco%20NDG.png) 
 
 ## 3. Screenshot of Github Learning
 ![GitHubLearning](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
