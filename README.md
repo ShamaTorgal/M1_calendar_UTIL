@@ -13,7 +13,7 @@
 ## Badges
 | Code Quality |
 | --- |
-| ![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg) |
+| ![Code grade](https://api.codiga.io/project/31090/score/svg)    ![Code grade](https://api.codiga.io/project/31090/status/svg) [![Code Quality - Static Code - Cppcheck](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShamaTorgal/M1_calendar_UTIL/actions/workflows/cppcheck.yml) |
 
 ## 4 W's and 1 H
 ### Who
