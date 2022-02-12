@@ -1,10 +1,15 @@
 # Output 
 ## 1. Make run Process
+![Code grade](https://api.codiga.io/project/31090/score/svg)  
 
 ## 2. Condition - Whenever key '1' is pressed it will display day of given date.
+![Code grade](https://api.codiga.io/project/31090/score/svg)  
 
 ## 3. Condition - Whenever key '2' is pressed it will print all days of given month.
+![Code grade](https://api.codiga.io/project/31090/score/svg)  
 
 ## 4. Condition - Whenever key '3' is pressed it will add a Note to particular date.
+![Code grade](https://api.codiga.io/project/31090/score/svg)  
 
 ## 5. Condition - If user wants to view Note within the given month press key 's'.
+![Code grade](https://api.codiga.io/project/31090/score/svg)  
