@@ -1,12 +1,12 @@
 # Certificates
 ## 1. Sololearn
-![SWOT analysis](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
+![SoloLearn](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/0_Certificates/1_sololearn_cert-1089-24871283.jpg)
 
 ## 2. Cisco NDG Linux
-![SWOT analysis](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png) 
+![Cisco](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png) 
 
 ## 3. Screenshot of Github Learning
-![SWOT analysis](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
+![GitHubLearning](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
 
 ## 4. Screenshot HackerEarth Points
-![SWOT analysis](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
+![HackerEarth](https://github.com/ShamaTorgal/M1_calendar_UTIL/blob/main/1_Requirements/SWOT.png)
