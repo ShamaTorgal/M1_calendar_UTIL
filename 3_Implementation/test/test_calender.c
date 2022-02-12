@@ -37,11 +37,11 @@ int main()
 
 /* Run Test functions */
   RUN_TEST(test_isLeapYear);
-  RUN_TEST(test_getDayNumber);
-  RUN_TEST(test_leapYears);
-  RUN_TEST(test_todayOf);
-  RUN_TEST(test_days);
-  RUN_TEST(test_getName);
+  //RUN_TEST(test_getDayNumber);
+  //RUN_TEST(test_leapYears);
+  //RUN_TEST(test_todayOf);
+  //RUN_TEST(test_days);
+  //RUN_TEST(test_getName);
  
   /* Close the Unity Test Framework */
   return UNITY_END();
@@ -54,7 +54,7 @@ void test_isLeapYear(void) {
   TEST_ASSERT_EQUAL(1, isLeapYear1(2000));  //pass
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, isLeapYear1(2001)); //fail
+  //TEST_ASSERT_EQUAL(1, isLeapYear1(2001)); //fail
 }
 // ----------------------------------------------
 
