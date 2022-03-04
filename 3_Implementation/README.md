@@ -20,4 +20,4 @@ This folder conatins all the coding files as well as the resources and testing f
 * Press '2' to print all days of month. (Enter month and year)
 * Press '3' to add note to particular date. ( Enter the day, month, year)
 * Press 's' to see the note.
-* Press '4' to Exit.
+* Press '4' to Exit
